@@ -12,7 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/gndx/curriculumvitae.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "styled-components"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
